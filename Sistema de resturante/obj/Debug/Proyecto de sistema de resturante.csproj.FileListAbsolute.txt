@@ -1,0 +1,7 @@
+C:\Users\japel\source\repos\Proyecto de sistema de resturante\bin\Debug\Proyecto de sistema de resturante.exe.config
+C:\Users\japel\source\repos\Proyecto de sistema de resturante\bin\Debug\Proyecto de sistema de resturante.exe
+C:\Users\japel\source\repos\Proyecto de sistema de resturante\bin\Debug\Proyecto de sistema de resturante.pdb
+C:\Users\japel\source\repos\Proyecto de sistema de resturante\obj\Debug\Proyecto de sistema de resturante.csproj.AssemblyReference.cache
+C:\Users\japel\source\repos\Proyecto de sistema de resturante\obj\Debug\Proyecto de sistema de resturante.csproj.CoreCompileInputs.cache
+C:\Users\japel\source\repos\Proyecto de sistema de resturante\obj\Debug\Proyecto de sistema de resturante.exe
+C:\Users\japel\source\repos\Proyecto de sistema de resturante\obj\Debug\Proyecto de sistema de resturante.pdb
