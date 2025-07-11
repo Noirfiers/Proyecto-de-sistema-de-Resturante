@@ -1,0 +1,30 @@
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\Proyecto de sistema de invetario.exe.config
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\Proyecto de sistema de invetario.exe
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\Proyecto de sistema de invetario.pdb
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Buffers.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Memory.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Text.Json.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.ValueTuple.dll
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Buffers.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Memory.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Text.Json.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\bin\Debug\System.ValueTuple.xml
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\obj\Debug\Proyecto de sistema de invetario.csproj.AssemblyReference.cache
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\obj\Debug\Proyecto de sistema de invetario.csproj.CoreCompileInputs.cache
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\obj\Debug\Proyecto.2B96404E.Up2Date
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\obj\Debug\Proyecto de sistema de invetario.exe
+C:\Users\japel\source\repos\Proyecto de sistema de invetario\obj\Debug\Proyecto de sistema de invetario.pdb
