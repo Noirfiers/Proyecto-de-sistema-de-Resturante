@@ -1,0 +1,11 @@
+[
+  {
+    "IdCliente": "marco",
+    "Fecha": "2020-07-11T00:00:00",
+    "Subtotal": 50,
+    "Impuesto": 10,
+    "Total": 25,
+    "Estado": "Activa",
+    "Id": "01"
+  }
+]

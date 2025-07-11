@@ -1,0 +1,22 @@
+[
+  {
+    "IdCliente": "marco",
+    "IdPlato": "01",
+    "Cantidad": 2,
+    "FechaPedido": "2025-07-11T11:20:35.0275802-06:00",
+    "PrecioUnitario": 25,
+    "Total": 50,
+    "Estado": "Pendiente",
+    "Id": "01"
+  },
+  {
+    "IdCliente": "02",
+    "IdPlato": "01",
+    "Cantidad": 2,
+    "FechaPedido": "2025-07-11T12:13:38.3926327-06:00",
+    "PrecioUnitario": 25,
+    "Total": 50,
+    "Estado": "Pendiente",
+    "Id": "02"
+  }
+]

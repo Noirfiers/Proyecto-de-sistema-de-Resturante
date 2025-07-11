@@ -1,0 +1,12 @@
+[
+  {
+    "Nombre": "pollo asado",
+    "Precio": 25,
+    "Categoria": "comida",
+    "CantidadDisponible": 2,
+    "Descripcion": "pollo asado con salsa",
+    "TiempoPreparacion": 45,
+    "Id": "01",
+    "Estado": "Activo"
+  }
+]
